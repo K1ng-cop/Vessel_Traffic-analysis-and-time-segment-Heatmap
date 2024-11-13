@@ -27,3 +27,8 @@ Analyze vessel traffic density and behavior in specific areas (e.g. the approach
 - I've noticed in the morning and afternoon plus night there's more traffic
 - in the evening the traffic is less
 - everything is shown on the four(4) image heatmaps I've created for  each time segment 
+
+
+##Author 
+- Kagiso Dlamini
+- 
