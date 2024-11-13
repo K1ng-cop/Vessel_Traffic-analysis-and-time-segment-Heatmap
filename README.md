@@ -29,6 +29,6 @@ Analyze vessel traffic density and behavior in specific areas (e.g. the approach
 - everything is shown on the four(4) image heatmaps I've created for  each time segment 
 
 
-##Author 
+## Author 
 - Kagiso Dlamini
-- 
+  
